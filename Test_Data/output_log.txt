@@ -10,12 +10,14 @@ Platform assembly: F:\GitHub\gameDesign\Test_Data\Managed\UnityEngine.dll (this 
 Loading F:\GitHub\gameDesign\Test_Data\Managed\UnityEngine.dll into Unity Child Domain
 Platform assembly: F:\GitHub\gameDesign\Test_Data\Managed\Assembly-CSharp.dll (this message is harmless)
 Loading F:\GitHub\gameDesign\Test_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: F:\GitHub\gameDesign\Test_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading F:\GitHub\gameDesign\Test_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
 Platform assembly: F:\GitHub\gameDesign\Test_Data\Managed\UnityEngine.UI.dll (this message is harmless)
 Loading F:\GitHub\gameDesign\Test_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
 Platform assembly: F:\GitHub\gameDesign\Test_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
 Loading F:\GitHub\gameDesign\Test_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
 Platform assembly: F:\GitHub\gameDesign\Test_Data\Managed\System.Core.dll (this message is harmless)
-- Completed reload, in  0.042 seconds
+- Completed reload, in  0.043 seconds
 desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
 <RI> Initializing input.
 XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
@@ -23,5 +25,5 @@ XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
 <RI> Initialized touch support.
 Platform assembly: F:\GitHub\gameDesign\Test_Data\Managed\System.dll (this message is harmless)
 Setting up 2 worker threads for Enlighten.
-  Thread -> id: ba0 -> priority: 1 
-  Thread -> id: e4c -> priority: 1 
+  Thread -> id: 38d4 -> priority: 1 
+  Thread -> id: 43b4 -> priority: 1 
